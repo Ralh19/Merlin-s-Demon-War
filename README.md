@@ -1,5 +1,13 @@
 # Unity - Merlin's Demon War - Interactive Combat Card Game - XAMK University Online Course Project
+
 ---
+
+## README Language : 
+
+[![FR](https://img.shields.io/badge/lang-FR-blue.svg)](https://github.com/Ralh19/Merlin-s-Demon-War/blob/main/README-fr.md)
+
+---
+
 ## Technology Used :
 
 |<a title="Unity Technologies, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Unity_Technologies_logo.svg"><img width="128" alt="Unity Technologies logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/128px-Unity_Technologies_logo.svg.png"></a>| <a title="Microsoft, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg"><img width="64" alt="Visual Studio Code 1.35 icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/64px-Visual_Studio_Code_1.35_icon.svg.png"></a> | <a title="Jason Groce, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:C_Sharp_wordmark.svg"><img width="64" alt="C Sharp wordmark" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/64px-C_Sharp_wordmark.svg.png"></a> |<a title="Wolthera van Hövell tot Westerflier and Timothée Giet, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Calligrakrita-base.svg"><img width="64" alt="Calligrakrita-base" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/64px-Calligrakrita-base.svg.png"></a>|
