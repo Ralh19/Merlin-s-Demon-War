@@ -1,4 +1,4 @@
-# Unity - Android Snake Game - XAMK University Online Course Project
+# Unity - Merlin's Demon War - Interactive Combat Card Game - XAMK University Online Course Project
 ---
 ## Technology Used :
 
@@ -13,7 +13,7 @@
 ## Introduction : 
 
 This project is a simple Interactive Combat Card Game that was one of the assignments I had to deliver during the Free Online Course ["INTRODUCTION TO VIDEO GAMES CREATION"](https://cambridge-academy-of-gaming-and-innovation.teachable.com/p/introduction-to-video-games-creation) proposed by ["XAMK South-Eastern Finland University of Applied Sciences"](https://www.xamk.fi/en/frontpage/) (35 ECTS).
-With this project, I was able to discover the basics of Unity Engine / C#, and thus develop my first mobile application.
+With this project, I was able to discover the basics of Unity Engine / C#.
 
 ---
 ## How to Play : 
