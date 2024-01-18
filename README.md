@@ -2,7 +2,7 @@
 
 ---
 
-## README Language : 
+## README Languages : 
 
 [![FR](https://img.shields.io/badge/lang-FR-blue.svg)](https://github.com/Ralh19/Merlin-s-Demon-War/blob/main/README-fr.md)
 
